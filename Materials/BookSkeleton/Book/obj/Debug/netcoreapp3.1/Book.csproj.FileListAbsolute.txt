@@ -1,0 +1,13 @@
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.exe
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.deps.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\bin\Debug\netcoreapp3.1\Book.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\AIDE\BookSkeleton\Book\obj\Debug\netcoreapp3.1\Book.genruntimeconfig.cache

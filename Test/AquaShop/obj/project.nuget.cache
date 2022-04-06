@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KRJoot63r36kvZctceMa37/jTbEKR8c91TWejZKKZ9J1AVd3jYxv/fgpxLvjwbpWFL451TkPZqV1A9ar1JL3rw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stasi\\OneDrive\\Desktop\\GitHub\\GitHub OOP\\Test\\AquaShop\\AquaShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

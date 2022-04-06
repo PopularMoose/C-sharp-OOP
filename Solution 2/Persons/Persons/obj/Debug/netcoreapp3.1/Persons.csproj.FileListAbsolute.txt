@@ -1,0 +1,13 @@
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\bin\Debug\netcoreapp3.1\Persons.exe
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\bin\Debug\netcoreapp3.1\Persons.deps.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\bin\Debug\netcoreapp3.1\Persons.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\bin\Debug\netcoreapp3.1\Persons.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\bin\Debug\netcoreapp3.1\Persons.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\bin\Debug\netcoreapp3.1\Persons.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\obj\Debug\netcoreapp3.1\Persons.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\obj\Debug\netcoreapp3.1\Persons.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\obj\Debug\netcoreapp3.1\Persons.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\obj\Debug\netcoreapp3.1\Persons.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\obj\Debug\netcoreapp3.1\Persons.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\obj\Debug\netcoreapp3.1\Persons.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2\Persons\Persons\obj\Debug\netcoreapp3.1\Persons.genruntimeconfig.cache

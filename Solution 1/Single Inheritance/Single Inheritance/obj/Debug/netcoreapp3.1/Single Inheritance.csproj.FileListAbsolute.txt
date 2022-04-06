@@ -1,0 +1,12 @@
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.exe
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.deps.json
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\bin\Debug\netcoreapp3.1\Single Inheritance.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Single Inheritance\Single Inheritance\obj\Debug\netcoreapp3.1\Single Inheritance.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s0CwDYyeVJR398iPl7SMUdHd3UDfq7qaq3ByIs3I4KiY7CJmzU6KCWJ+P1ciTcAzAQVkB9jR9PqSjbsAZedfvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stasi\\OneDrive\\Desktop\\GitHub\\GitHub OOP\\Test\\Aquariums\\Aquariums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

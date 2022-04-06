@@ -1,0 +1,13 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.AssemblyReference.cache

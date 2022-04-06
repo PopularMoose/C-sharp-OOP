@@ -1,0 +1,13 @@
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.exe
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.deps.json
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\bin\Debug\netcoreapp3.1\Multiple Inheritance.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Multiple Inheritance\Multiple Inheritance\obj\Debug\netcoreapp3.1\Multiple Inheritance.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.exe
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.deps.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\bin\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\Car\CarRacing\obj\Debug\netcoreapp3.1\CarRacing.genruntimeconfig.cache

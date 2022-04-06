@@ -1,0 +1,16 @@
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\bin\Debug\net5.0\Interface and Abstraction.exe
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\bin\Debug\net5.0\Interface and Abstraction.deps.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\bin\Debug\net5.0\Interface and Abstraction.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\bin\Debug\net5.0\Interface and Abstraction.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\bin\Debug\net5.0\Interface and Abstraction.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\bin\Debug\net5.0\ref\Interface and Abstraction.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\bin\Debug\net5.0\Interface and Abstraction.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\obj\Debug\net5.0\Interface and Abstraction.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\obj\Debug\net5.0\Interface and Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\obj\Debug\net5.0\Interface and Abstraction.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\obj\Debug\net5.0\Interface and Abstraction.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\obj\Debug\net5.0\Interface and Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\obj\Debug\net5.0\Interface and Abstraction.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\obj\Debug\net5.0\ref\Interface and Abstraction.dll
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\obj\Debug\net5.0\Interface and Abstraction.pdb
+C:\Users\stasi\OneDrive\Desktop\Softuni\C# OOP\3.3\Interface and Abstraction\Interface and Abstraction\obj\Debug\net5.0\Interface and Abstraction.genruntimeconfig.cache

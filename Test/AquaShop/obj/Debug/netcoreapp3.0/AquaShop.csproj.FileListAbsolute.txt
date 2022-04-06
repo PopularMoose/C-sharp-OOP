@@ -1,0 +1,13 @@
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Test\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.AssemblyReference.cache

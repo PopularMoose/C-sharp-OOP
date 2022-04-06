@@ -1,0 +1,13 @@
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.exe
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.deps.json
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\bin\Debug\netcoreapp3.1\Random List.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub OOP\Solution 1\Random List\Random List\obj\Debug\netcoreapp3.1\Random List.genruntimeconfig.cache

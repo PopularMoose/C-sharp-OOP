@@ -1,0 +1,13 @@
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.exe
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.deps.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\bin\Debug\netcoreapp3.1\Class Box Data.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 2.2\Class Box Data\Class Box Data\obj\Debug\netcoreapp3.1\Class Box Data.genruntimeconfig.cache

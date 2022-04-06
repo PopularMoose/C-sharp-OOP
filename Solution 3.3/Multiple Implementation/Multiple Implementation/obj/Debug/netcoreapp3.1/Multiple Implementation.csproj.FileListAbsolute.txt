@@ -1,0 +1,13 @@
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\bin\Debug\netcoreapp3.1\Multiple Implementation.exe
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\bin\Debug\netcoreapp3.1\Multiple Implementation.deps.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\bin\Debug\netcoreapp3.1\Multiple Implementation.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\bin\Debug\netcoreapp3.1\Multiple Implementation.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\bin\Debug\netcoreapp3.1\Multiple Implementation.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\bin\Debug\netcoreapp3.1\Multiple Implementation.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\obj\Debug\netcoreapp3.1\Multiple Implementation.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\obj\Debug\netcoreapp3.1\Multiple Implementation.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\obj\Debug\netcoreapp3.1\Multiple Implementation.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\obj\Debug\netcoreapp3.1\Multiple Implementation.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\obj\Debug\netcoreapp3.1\Multiple Implementation.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\obj\Debug\netcoreapp3.1\Multiple Implementation.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\GitHub OOP\Solution 3.3\Multiple Implementation\Multiple Implementation\obj\Debug\netcoreapp3.1\Multiple Implementation.genruntimeconfig.cache
